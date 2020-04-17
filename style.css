@@ -2,4 +2,29 @@
 {
         background-color: chartreuse;
         font-size: 35px;
+        text-align:center;
+}
+
+.text
+{
+        text-align:center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+}
+
+.button
+{
+        text-align: center;
+        
+}
+
+.input-box
+{
+        height: 20px;
+        width: 250px;
+}
+.clickable-button
+{
+        height:30px ;
+        width: 110px;
 }
